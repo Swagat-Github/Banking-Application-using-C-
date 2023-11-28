@@ -1,5 +1,5 @@
-
 Banking System with C++ STL
+
 This C++ program implements a simple banking system using the Standard Template Library (STL). It allows users to perform various operations such as opening an account, checking balance, depositing, withdrawing, closing an account, and displaying all accounts.
 
 Program Structure
